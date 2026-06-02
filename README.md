@@ -2,7 +2,10 @@
 
 Uma calculadora simples e intuitiva desenvolvida em Python para executar operações matemáticas básicas e avançadas diretamente no terminal. Este projeto foi criado com o objetivo de praticar lógica de programação, estruturas de repetição e funções em Python.
 
-imagem
+<p align="center">
+  <img src=
+</p>
+
 ---
 
 ## 🚀 Funcionalidades
